@@ -1,75 +1,90 @@
 package Payload.Request;
 
-import javax.annotation.Generated;
-import com.google.gson.annotations.Expose;
-import com.google.gson.annotations.SerializedName;
+import java.util.LinkedHashMap;
+import java.util.Map;
+import io.qameta.allure.internal.shadowed.jackson.annotation.*;
 
-@Generated("jsonschema2pojo")
+@JsonInclude(JsonInclude.Include.NON_NULL)
+@JsonPropertyOrder({
+        "firstname",
+        "lastname",
+        "totalprice",
+        "depositpaid",
+        "bookingdates",
+        "additionalneeds"
+})
+
 public class Bookings {
 
-    @SerializedName("firstname")
-    @Expose
+    @JsonProperty("firstname")
     private String firstname;
-    @SerializedName("lastname")
-    @Expose
+    @JsonProperty("lastname")
     private String lastname;
-    @SerializedName("totalprice")
-    @Expose
+    @JsonProperty("totalprice")
     private Integer totalprice;
-    @SerializedName("depositpaid")
-    @Expose
+    @JsonProperty("depositpaid")
     private Boolean depositpaid;
-    @SerializedName("bookingdates")
-    @Expose
+    @JsonProperty("bookingdates")
     private Bookingdates bookingdates;
-    @SerializedName("additionalneeds")
-    @Expose
+    @JsonProperty("additionalneeds")
     private String additionalneeds;
 
+    @JsonProperty("firstname")
     public String getFirstname() {
         return firstname;
     }
 
+    @JsonProperty("firstname")
     public void setFirstname(String firstname) {
         this.firstname = firstname;
     }
 
+    @JsonProperty("lastname")
     public String getLastname() {
         return lastname;
     }
 
+    @JsonProperty("lastname")
     public void setLastname(String lastname) {
         this.lastname = lastname;
     }
 
+    @JsonProperty("totalprice")
     public Integer getTotalprice() {
         return totalprice;
     }
 
+    @JsonProperty("totalprice")
     public void setTotalprice(Integer totalprice) {
         this.totalprice = totalprice;
     }
 
+    @JsonProperty("depositpaid")
     public Boolean getDepositpaid() {
         return depositpaid;
     }
 
+    @JsonProperty("depositpaid")
     public void setDepositpaid(Boolean depositpaid) {
         this.depositpaid = depositpaid;
     }
 
+    @JsonProperty("bookingdates")
     public Bookingdates getBookingdates() {
         return bookingdates;
     }
 
+    @JsonProperty("bookingdates")
     public void setBookingdates(Bookingdates bookingdates) {
         this.bookingdates = bookingdates;
     }
 
+    @JsonProperty("additionalneeds")
     public String getAdditionalneeds() {
         return additionalneeds;
     }
 
+    @JsonProperty("additionalneeds")
     public void setAdditionalneeds(String additionalneeds) {
         this.additionalneeds = additionalneeds;
     }

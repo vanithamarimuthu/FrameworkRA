@@ -2,13 +2,9 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true"
-          name="C:/Users/AKKASH/IdeaProjects/FrameworkRA/src/test/java/Misc/test_file.java">
+          name="C:/Users/AKKASH/IdeaProjects/FrameworkRA>
         <classes>
-            <class name="Misc.test_file">
-                <methods>
-                    <include name="payloadpostmethode"/>
-                </methods>
-            </class>
+            <class name="Tes"></class>
         </classes>
     </test>
 </suite>

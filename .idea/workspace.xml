@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e611deb7-20e4-4f0c-a46e-4d465b70b004" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Endpoint/API_URL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Endpoint/API_URL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Modules/payloadManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Modules/payloadManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Payload/Request/Bookingdates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Payload/Request/Bookingdates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Payload/Request/Bookings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Payload/Request/Bookings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Base/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Base/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Misc/test_file.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Test_CRUD/TC_CreateBooking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test_CRUD/TC_CreateBooking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng_crud.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng_crud.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
