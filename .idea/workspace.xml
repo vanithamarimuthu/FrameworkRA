@@ -5,35 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e611deb7-20e4-4f0c-a46e-4d465b70b004" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/36d4116c-ddcc-42b7-8558-78cd3be44102-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/4ba6df55-4c12-423a-b11b-a5fdafa6b243-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/868fae72-303e-4dd3-b0f6-48e8177fb1f5-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/a9364473-380a-4ef4-bddb-d19e02e1e937-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/c9b23e70-9b4f-4f89-b571-6c8fd01e0b71-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d6302f94-30bc-4f2f-9008-123546a24714-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/e5a7e50f-a9df-4898-84f4-091ccc5131ff-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/f39c6283-9330-45d5-a151-756c76e5b93c-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Endpoint/API_URL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Modules/payloadManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Payload/Request/Bookingdates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Payload/Request/Bookings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Payload/Response/Bookingresponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/UtilExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/resource/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Actions/assertActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Base/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Misc/test_file.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Test_CRUD/TC_CreateBooking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng_crud.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
