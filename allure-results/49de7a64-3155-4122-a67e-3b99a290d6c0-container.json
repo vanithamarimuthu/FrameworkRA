@@ -1,1 +1,0 @@
-{"uuid":"49de7a64-3155-4122-a67e-3b99a290d6c0","name":"Base.BaseTest.gettoken","children":["7d848c1e-bb89-4ce2-982b-dfbfeb94a98f"],"description":"","befores":[{"name":"gettoken","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1706196336781,"stop":1706196342917}],"afters":[],"start":1706196336779,"stop":1706196342918}
