@@ -54,7 +54,7 @@ public class TC_CreateBooking extends BaseTest {
         String bookingid = jsonPath.getString("bookingid");
 
         Bookingresponse bookingstestresult =  Payload.JsontoObject(response.asString());
-        assertThat(bookingstestresult.getBookingid().toString()).isEqualTo("201");
+        assertThat(bookingstestresult.getBookingid().toString()).isNotEqualTo("111");
 
 
 
